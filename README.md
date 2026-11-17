@@ -1,73 +1,137 @@
 <div align="center">
 
-# Hey, I'm Malith Gimhana 👋
+<img src="./assets/neon-banner.svg" width="100%" alt="Animated cyberpunk neon banner for Malith Gimhana" />
 
-### Computer Science Undergraduate · Building useful software
-
-**NSBM Green University, Sri Lanka**
+<br />
 
 [![GitHub](https://img.shields.io/badge/GitHub-malithgimhana-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/malithgimhana)
-[![Profile](https://img.shields.io/badge/Explore-My_Repositories-19B6AC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/malithgimhana?tab=repositories)
+![Focus](https://img.shields.io/badge/Computer_Science-Undergraduate-8B5CF6?style=for-the-badge)
+![Location](https://img.shields.io/badge/Based_in-Sri_Lanka-06B6D4?style=for-the-badge)
 
 </div>
 
----
+### `> whoami`
 
-### ✨ About me
+I'm **Malith Gimhana**, a **Computer Science undergraduate at NSBM Green University, Sri Lanka**. I enjoy turning ideas into useful applications, learning how systems work, and growing through hands-on projects.
 
-I'm a Computer Science undergraduate at **NSBM Green University** who enjoys building practical applications, learning new technologies, and turning ideas into software. My experience spans Java and Spring Boot backends, web development, databases, and university team projects.
+- 🎓 Studying **Computer Science** at **NSBM Green University**
+- 💻 Interested in **software engineering, full-stack applications, and backend systems**
+- 🛠️ Building with **Java, Spring Boot, JavaScript, PHP, Python, and SQL**
+- 🚀 Exploring practical solutions for **healthcare, campus life, and workforce management**
+- 🌱 Always learning, experimenting, and improving
 
-- 🎓 Studying **Computer Science** at NSBM Green University
-- 💻 Interested in **software engineering, full-stack development, and system design**
-- 🛠️ Building projects that solve real problems
-- 🌱 Learning through coursework, experiments, and collaborative development
+<div align="center">
+<img src="./assets/neon-divider.svg" width="100%" alt="Neon section divider" />
+</div>
 
-### 🧰 Tech stack
+### `> tech_stack --show-logos`
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-263447?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-263447?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-263447?style=flat-square&logo=javascript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-263447?style=flat-square&logo=php&logoColor=white) ![C](https://img.shields.io/badge/C-263447?style=flat-square&logo=c&logoColor=white) ![C%23](https://img.shields.io/badge/C%23-263447?style=flat-square&logo=sharp&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cs,php,html,css&theme=dark" alt="Java, Python, JavaScript, TypeScript, C, C Sharp, PHP, HTML and CSS logos" />
+</p>
 
-**Frameworks & web**
+**Frameworks & Development**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-146D69?style=flat-square&logo=springboot&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-146D69?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-146D69?style=flat-square&logo=css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-146D69?style=flat-square&logo=bootstrap&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,react,bootstrap,nodejs,maven&theme=dark" alt="Spring Boot, React, Bootstrap, Node.js and Maven logos" />
+</p>
 
-**Database & tools**
+**Databases, Tools & Platforms**
 
-![MySQL](https://img.shields.io/badge/MySQL-263447?style=flat-square&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-263447?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-263447?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-263447?style=flat-square&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-263447?style=flat-square&logo=postman&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,docker,postman,vscode,idea,figma,linux&theme=dark" alt="MySQL, Git, GitHub, Docker, Postman, VS Code, IntelliJ IDEA, Figma and Linux logos" />
+</p>
 
-### 🚀 Selected work
+<sub>These logos represent technologies I have worked with or explored; experience levels vary.</sub>
 
-| Project | What I built / explored |
-| --- | --- |
-| [**SuwaSewana**](https://github.com/malithgimhana/SuwaSewana) | Doctor and patient management web application using HTML, CSS, JavaScript, PHP, and MySQL |
-| **FlexiWork** | Spring Boot workforce and shift-management project with JWT, session-based admin access, and attendance workflows |
-| **SkyLanka Airways** | Spring Boot airport and flight API coursework with role-based JWT authentication and session endpoints |
-| **CampusFind NSBM** | Proposed campus lost-and-found platform with safe claim verification and handover coordination |
+<div align="center">
+<img src="./assets/neon-divider.svg" width="100%" alt="Neon section divider" />
+</div>
 
-> Some projects are coursework or concepts; their public repository links can be added when available.
+### `> ls featured-projects/`
 
-### 📈 GitHub activity
+<table>
+<tr><td width="50%" valign="top">
 
-[![GitHub repositories](https://img.shields.io/badge/View-My_Repositories-19B6AC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/malithgimhana?tab=repositories)
-[![GitHub contributions](https://img.shields.io/badge/View-Contributions-263447?style=for-the-badge&logo=github&logoColor=white)](https://github.com/malithgimhana)
+#### 🏥 SuwaSewana
+**Doctor & Patient Management System**
 
-<!-- Optional third-party GitHub stats cards are deliberately omitted because their public endpoints can return broken images or rate-limit errors. -->
+A web-based healthcare management project covering users, doctors, patients, appointments, and medical records.
 
-### 🐍 Contribution journey
+`HTML` `CSS` `JavaScript` `PHP` `MySQL`
 
-<!-- The snake is published by .github/workflows/snake.yml. It will show only AFTER the workflow succeeds and creates the output branch. -->
+[**View repository →**](https://github.com/malithgimhana/SuwaSewana)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/malithgimhana/malithgimhana/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/malithgimhana/malithgimhana/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake — appears after the GitHub Actions workflow runs successfully" src="https://raw.githubusercontent.com/malithgimhana/malithgimhana/output/github-contribution-grid-snake.svg" />
-</picture>
+</td><td width="50%" valign="top">
 
-### 🤝 Connect
+#### 🛫 SkyLanka Airways
+**Airline Backend APIs**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/malithgimhana)
+Spring Boot coursework exploring airports, flights, JWT authentication, sessions, cookies, and REST endpoints.
 
-<!-- Add your confirmed LinkedIn and portfolio URLs here when ready. -->
+`Java` `Spring Boot` `Spring Security` `JPA`
 
-<div align="center"><sub>Learning continuously · Building with purpose</sub></div>
+*Repository link not confirmed.*
+
+</td></tr>
+<tr><td width="50%" valign="top">
+
+#### ⚡ FlexiWork
+**Shift & Workforce Management Platform**
+
+A project concept and implementation involving shift postings, worker applications, attendance verification, and reporting.
+
+`Spring Boot` `REST APIs` `MySQL` `JWT`
+
+*Repository link not confirmed.*
+
+</td><td width="50%" valign="top">
+
+#### 🎒 CampusFind NSBM
+**Campus Lost & Found Network**
+
+A proposed platform to report lost and found belongings, verify claims, and coordinate safe handovers.
+
+`Web Application` `System Design` `UI/UX`
+
+*Project proposal; repository link not confirmed.*
+
+</td></tr>
+</table>
+
+**Also explored:** Student Course Registration API, Hospital Patient Management API, AI-assisted e-channeling SRS, and software design coursework.
+
+<div align="center">
+<img src="./assets/neon-divider.svg" width="100%" alt="Neon section divider" />
+</div>
+
+### `> github --activity`
+
+<div align="center">
+
+<!-- Native GitHub activity remains available via the Contributions tab.
+     External stats cards are intentionally omitted to avoid broken images / API limits. -->
+
+[![Repositories](https://img.shields.io/badge/Explore-My_Repositories-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/malithgimhana?tab=repositories)
+[![Contributions](https://img.shields.io/badge/View-My_Contributions-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/malithgimhana?tab=overview)
+
+</div>
+
+### `> connect --social`
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Connect-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/malithgimhana)
+
+<!-- Add other social accounts only after you have confirmed their actual URLs. -->
+
+</div>
+
+<div align="center">
+<img src="./assets/neon-divider.svg" width="100%" alt="Neon section divider" />
+
+<sub>⚡ Learn. Build. Improve. Repeat. ⚡</sub>
+
+</div>
