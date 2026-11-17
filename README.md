@@ -1,85 +1,73 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,55:12354A,100:00BFA6&text=Malith%20Gimhana&fontColor=FFFFFF&fontSize=48&fontAlignY=39&desc=Computer%20Science%20Undergraduate%20%7C%20NSBM%20Green%20University&descAlignY=62&descSize=17&animation=fadeIn" alt="Malith Gimhana banner" />
+# Hey, I'm Malith Gimhana 👋
 
-[![Typing introduction](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=1100&color=39D9C1&center=true&vCenter=true&width=750&lines=Exploring+software+engineering+%26+technology;Building+practical+solutions+to+real+problems;Learning.+Building.+Improving.)](https://git.io/typing-svg)
+### Computer Science Undergraduate · Building useful software
 
-<a href="https://github.com/malithgimhana"><img src="https://komarev.com/ghpvc/?username=malithgimhana&label=PROFILE%20VIEWS&color=00bfa6&style=flat-square" alt="Profile views" /></a>
-<a href="https://github.com/malithgimhana?tab=followers"><img src="https://img.shields.io/github/followers/malithgimhana?label=FOLLOWERS&style=flat-square&color=12354A" alt="Followers" /></a>
+**NSBM Green University, Sri Lanka**
 
-</div>
-
-### 01 / About Me
-
-I'm **Malith Gimhana**, a Computer Science undergraduate at **NSBM Green University, Sri Lanka**. I enjoy turning ideas into useful applications, understanding how systems work, and improving my skills through hands-on projects.
-
-- **Currently exploring:** software engineering, backend systems, full-stack web development, and UI/UX.
-- **Building with:** Java, Spring Boot, PHP, JavaScript, Python, and relational databases.
-- **Interested in:** meaningful student projects, practical problem-solving, and collaboration.
-- **Long-term goal:** become a skilled software engineer and build products that make a difference.
-
-### 02 / Technology & Tools
-
-<div align="center">
-
-**Programming languages**
-
-<img src="https://skillicons.dev/icons?i=java,python,js,php,c,cs&theme=dark" alt="Java, Python, JavaScript, PHP, C and C sharp" />
-
-**Web & backend**
-
-<img src="https://skillicons.dev/icons?i=spring,html,css,bootstrap&theme=dark" alt="Spring, HTML, CSS and Bootstrap" />
-
-**Databases, development & design**
-
-<img src="https://skillicons.dev/icons?i=mysql,git,github,docker,postman,figma&theme=dark" alt="MySQL, Git, GitHub, Docker, Postman and Figma" />
+[![GitHub](https://img.shields.io/badge/GitHub-malithgimhana-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/malithgimhana)
+[![Profile](https://img.shields.io/badge/Explore-My_Repositories-19B6AC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/malithgimhana?tab=repositories)
 
 </div>
 
-### 03 / Selected Projects
+---
 
-| Project | Overview | Technologies |
-| :--- | :--- | :--- |
-| **[SuwaSewana](https://github.com/malithgimhana/SuwaSewana)** | Doctor and patient management system with healthcare administration features. | PHP · MySQL · HTML · CSS · JS |
-| **FlexiWork** | Team project for short-term workforce matching, shift applications, attendance verification, and reporting. | Spring Boot · JPA · Security |
-| **SkyLanka Airways API** | Coursework backend for flight and airport management with authentication, sessions, and cookies. | Java · Spring Boot · REST |
-| **CampusFind NSBM** | Proposed campus lost-and-found platform with ownership verification and handover coordination. | Product concept · System design |
+### ✨ About me
 
-<sub>Some projects are coursework, team work, or concepts and do not currently have verified public repository links. Links will be added when published.</sub>
+I'm a Computer Science undergraduate at **NSBM Green University** who enjoys building practical applications, learning new technologies, and turning ideas into software. My experience spans Java and Spring Boot backends, web development, databases, and university team projects.
 
-### 04 / GitHub Activity
+- 🎓 Studying **Computer Science** at NSBM Green University
+- 💻 Interested in **software engineering, full-stack development, and system design**
+- 🛠️ Building projects that solve real problems
+- 🌱 Learning through coursework, experiments, and collaborative development
 
-<div align="center">
+### 🧰 Tech stack
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=malithgimhana&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39D9C1&icon_color=39D9C1&text_color=C9D1D9" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malithgimhana&layout=compact&hide_border=true&bg_color=0D1117&title_color=39D9C1&text_color=C9D1D9" alt="Most-used repository languages" />
+**Languages**
 
-<img src="https://streak-stats.demolab.com?user=malithgimhana&theme=github-dark-blue&hide_border=true&ring=39D9C1&fire=39D9C1&currStreakLabel=39D9C1" alt="Contribution streak" />
+![Java](https://img.shields.io/badge/Java-263447?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-263447?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-263447?style=flat-square&logo=javascript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-263447?style=flat-square&logo=php&logoColor=white) ![C](https://img.shields.io/badge/C-263447?style=flat-square&logo=c&logoColor=white) ![C%23](https://img.shields.io/badge/C%23-263447?style=flat-square&logo=sharp&logoColor=white)
 
-</div>
+**Frameworks & web**
 
-<sub>Statistics are generated by third-party services and may occasionally be unavailable. Repository language proportions are not a measure of proficiency.</sub>
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-146D69?style=flat-square&logo=springboot&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-146D69?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-146D69?style=flat-square&logo=css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-146D69?style=flat-square&logo=bootstrap&logoColor=white)
 
-### 05 / Contribution Journey
+**Database & tools**
 
-<div align="center">
+![MySQL](https://img.shields.io/badge/MySQL-263447?style=flat-square&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-263447?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-263447?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-263447?style=flat-square&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-263447?style=flat-square&logo=postman&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/malithgimhana/malithgimhana/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%" />
+### 🚀 Selected work
 
-</div>
+| Project | What I built / explored |
+| --- | --- |
+| [**SuwaSewana**](https://github.com/malithgimhana/SuwaSewana) | Doctor and patient management web application using HTML, CSS, JavaScript, PHP, and MySQL |
+| **FlexiWork** | Spring Boot workforce and shift-management project with JWT, session-based admin access, and attendance workflows |
+| **SkyLanka Airways** | Spring Boot airport and flight API coursework with role-based JWT authentication and session endpoints |
+| **CampusFind NSBM** | Proposed campus lost-and-found platform with safe claim verification and handover coordination |
 
-<sub>The snake becomes visible after the included GitHub Actions workflow successfully publishes its output branch.</sub>
+> Some projects are coursework or concepts; their public repository links can be added when available.
 
-### 06 / Let's Connect
+### 📈 GitHub activity
 
-<div align="center">
+[![GitHub repositories](https://img.shields.io/badge/View-My_Repositories-19B6AC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/malithgimhana?tab=repositories)
+[![GitHub contributions](https://img.shields.io/badge/View-Contributions-263447?style=for-the-badge&logo=github&logoColor=white)](https://github.com/malithgimhana)
 
-<a href="https://github.com/malithgimhana"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<!-- Replace YOUR_LINKEDIN_USERNAME with your actual LinkedIn profile username before enabling the next line. -->
-<!-- <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
+<!-- Optional third-party GitHub stats cards are deliberately omitted because their public endpoints can return broken images or rate-limit errors. -->
 
-**Learn. Build. Improve. Repeat.**
+### 🐍 Contribution journey
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=105&color=0:0D1117,55:12354A,100:00BFA6" alt="Footer wave" />
+<!-- The snake is published by .github/workflows/snake.yml. It will show only AFTER the workflow succeeds and creates the output branch. -->
 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/malithgimhana/malithgimhana/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/malithgimhana/malithgimhana/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake — appears after the GitHub Actions workflow runs successfully" src="https://raw.githubusercontent.com/malithgimhana/malithgimhana/output/github-contribution-grid-snake.svg" />
+</picture>
+
+### 🤝 Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/malithgimhana)
+
+<!-- Add your confirmed LinkedIn and portfolio URLs here when ready. -->
+
+<div align="center"><sub>Learning continuously · Building with purpose</sub></div>
