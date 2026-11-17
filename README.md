@@ -50,37 +50,42 @@ I'm **Malith Gimhana**, a **Computer Science undergraduate at NSBM Green Univers
 <img src="./assets/neon-divider.svg" width="100%" alt="Neon section divider" />
 </div>
 
-## 🚀 Featured Projects
+##  🚀 Featured Projects
 
 <table>
-<tr><td width="50%" valign="top">
-
-#### 🏥 SuwaSewana
-**Doctor & Patient Management System**
-
-A web-based healthcare management project covering users, doctors, patients, appointments, and medical records.
-
-`HTML` `CSS` `JavaScript` `PHP` `MySQL`
-
-[**View repository →**](https://github.com/malithgimhana/SuwaSewana)
-
-</td><td width="50%" valign="top">
-
-</td></tr>
-<tr><td width="50%" valign="top">
-
-#### ⚡ FlexiWork
-**Shift & Workforce Management Platform**
-
-A project concept and implementation involving shift postings, worker applications, attendance verification, and reporting.
-
-`Spring Boot` `REST APIs` `MySQL` `JWT`
-
-*Repository link not confirmed.*
-
-</td><td width="50%" valign="top">
-
-</td></tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏥 SuwaSewana</h3>
+      <b>Doctor & Patient Management System</b>
+      <p>
+        Web-based healthcare management system
+        for patients, doctors, appointments,
+        and medical records.
+      </p>
+      <p>
+        <code>HTML</code> <code>CSS</code>
+        <code>JavaScript</code> <code>PHP</code>
+        <code>MySQL</code>
+      </p>
+      <a href="https://github.com/malithgimhana/SuwaSewana">
+        View Repository
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ FlexiWork</h3>
+      <b>Shift & Workforce Management Platform</b>
+      <p>
+        Workforce platform for shift postings,
+        worker applications, attendance
+        verification, and reporting.
+      </p>
+      <p>
+        <code>Spring Boot</code> <code>REST API</code>
+        <code>JWT</code> <code>MySQL</code>
+      </p>
+      <i>Repository link not confirmed.</i>
+    </td>
+  </tr>
 </table>
 
 **Also explored:** Student Course Registration API, Hospital Patient Management API, AI-assisted e-channeling SRS, and software design coursework.
@@ -114,9 +119,6 @@ A project concept and implementation involving shift postings, worker applicatio
   </a>
   <a href="#">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" width="38" alt="Instagram"/>
-  </a>
-  <a href="#">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="38" alt="Facebook"/>
   </a>
   <a href="#">
     <img src="https://cdn.simpleicons.org/x/FFFFFF" width="38" alt="X"/>
