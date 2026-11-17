@@ -115,7 +115,7 @@ I'm **Malith Gimhana**, a **Computer Science undergraduate at NSBM Green Univers
     <img src="https://cdn.simpleicons.org/github/FFFFFF" width="38" alt="GitHub"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="38" alt="LinkedIn"/>
+    <img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000)" width="38" alt="LinkedIn"/>
   </a>
   <a href="#">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" width="38" alt="Instagram"/>
