@@ -10,7 +10,7 @@
 
 </div>
 
-### `> whoami`
+## 💜 About Me
 
 I'm **Malith Gimhana**, a **Computer Science undergraduate at NSBM Green University, Sri Lanka**. I enjoy turning ideas into useful applications, learning how systems work, and growing through hands-on projects.
 
@@ -24,7 +24,7 @@ I'm **Malith Gimhana**, a **Computer Science undergraduate at NSBM Green Univers
 <img src="./assets/neon-divider.svg" width="100%" alt="Neon section divider" />
 </div>
 
-### `> tech_stack --show-logos`
+## ⚡ Tech Stack & Tools
 
 **Languages**
 
@@ -50,7 +50,7 @@ I'm **Malith Gimhana**, a **Computer Science undergraduate at NSBM Green Univers
 <img src="./assets/neon-divider.svg" width="100%" alt="Neon section divider" />
 </div>
 
-### `> ls featured-projects/`
+## 🚀 Featured Projects
 
 <table>
 <tr><td width="50%" valign="top">
@@ -66,15 +66,6 @@ A web-based healthcare management project covering users, doctors, patients, app
 
 </td><td width="50%" valign="top">
 
-#### 🛫 SkyLanka Airways
-**Airline Backend APIs**
-
-Spring Boot coursework exploring airports, flights, JWT authentication, sessions, cookies, and REST endpoints.
-
-`Java` `Spring Boot` `Spring Security` `JPA`
-
-*Repository link not confirmed.*
-
 </td></tr>
 <tr><td width="50%" valign="top">
 
@@ -89,15 +80,6 @@ A project concept and implementation involving shift postings, worker applicatio
 
 </td><td width="50%" valign="top">
 
-#### 🎒 CampusFind NSBM
-**Campus Lost & Found Network**
-
-A proposed platform to report lost and found belongings, verify claims, and coordinate safe handovers.
-
-`Web Application` `System Design` `UI/UX`
-
-*Project proposal; repository link not confirmed.*
-
 </td></tr>
 </table>
 
@@ -107,7 +89,7 @@ A proposed platform to report lost and found belongings, verify claims, and coor
 <img src="./assets/neon-divider.svg" width="100%" alt="Neon section divider" />
 </div>
 
-### `> github --activity`
+## 📈 GitHub Activity
 
 <div align="center">
 
@@ -119,15 +101,35 @@ A proposed platform to report lost and found belongings, verify claims, and coor
 
 </div>
 
-### `> connect --social`
+
+<h2 align="center">🌐 Connect With Me</h2>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Connect-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/malithgimhana)
-
-<!-- Add other social accounts only after you have confirmed their actual URLs. -->
+  <a href="https://github.com/malithgimhana">
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="38" alt="GitHub"/>
+  </a>
+  <a href="#">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="38" alt="LinkedIn"/>
+  </a>
+  <a href="#">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="38" alt="Instagram"/>
+  </a>
+  <a href="#">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="38" alt="Facebook"/>
+  </a>
+  <a href="#">
+    <img src="https://cdn.simpleicons.org/x/FFFFFF" width="38" alt="X"/>
+  </a>
+  <a href="#">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" width="38" alt="Discord"/>
+  </a>
+  <a href="#">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="38" alt="Email"/>
+  </a>
 
 </div>
+
 
 <div align="center">
 <img src="./assets/neon-divider.svg" width="100%" alt="Neon section divider" />
